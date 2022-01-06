@@ -1,5 +1,5 @@
 ✨ IT Solution Architect.  
-🛠 Maintainer of [Casper Java SDK](https://github.com/syntifi/casper-sdk) and [Near Java Api](https://github.com/syntifi/near-java-api)
+🛠 Maintainer of [Casper Java SDK](https://github.com/syntifi/casper-sdk) and [Near Java Api](https://github.com/syntifi/near-java-api)  
 🛠 Contributor of [ORI](https://github.com/syntifi/ori).  
 💼 Working as Developer and DevOps Engineer.  
 🛠 Code in Java, C#, C, Python, JavaScript and Shell.  
